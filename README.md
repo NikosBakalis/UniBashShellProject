@@ -1,5 +1,5 @@
 # BashShell
-School Project. Create a Shell Script that allows you to work with a database on terminal.
+University Project. Create a Shell Script that allows you to work with a database on terminal.
 Working with the "dates.dat" (database) file.
 Get info using terminal from this database.
 
