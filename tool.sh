@@ -1,6 +1,9 @@
 #!/bin/bash
 
+
 #COMMENTS IN GREEK!!!
+
+
 #arxikopoiw bool metablites pou tha xrisimopoiw san "flags" mesa stis if
 boolf=false
 boolid=false
